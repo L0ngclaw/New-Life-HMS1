@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="WS-222.4167.31">
+    <data-source name="@cluster01.lahvgvm.mongodb.net" uuid="766049ff-2cb5-4aa9-9c2d-4acbd5e168ef">
+      <database-info product="Mongo DB" version="5.0.13" jdbc-version="4.2" driver-name="MongoDB JDBC Driver" driver-version="1.16" dbms="MONGO" exact-version="5.0.13" exact-driver-version="1.16" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>LabsPB</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" negative="1" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

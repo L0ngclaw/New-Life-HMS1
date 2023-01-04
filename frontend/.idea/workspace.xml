@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f5d1c19-775f-47bd-ae39-4004f38c7615" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/components/Menu/MainMenu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Menu/MainMenu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/buttons/LoginButton.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/buttons/LoginButton.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/patient/view-appointments.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/patient/view-appointments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/patient/view-report.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/patient/view-report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/patient/view-report/[single].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/patient/view-report/[single].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/staff/create-appointment.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/staff/create-appointment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/staff/create-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/staff/create-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/staff/view-appointment.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/staff/view-appointment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/staff/view-report/[single].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/staff/view-report/[single].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/staff/view-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/staff/view-reports.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FUenuboA6hZdM1Zfr3irjSXCqD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/USER/Desktop/HMS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.Frontend">
+    <configuration name="Backend" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/../backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Frontend" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.Backend" />
+      <item itemvalue="npm.Frontend" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f5d1c19-775f-47bd-ae39-4004f38c7615" name="Changes" comment="" />
+      <created>1664551259790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664551259790</updated>
+      <workItem from="1664551261812" duration="1254000" />
+      <workItem from="1665341509975" duration="496000" />
+      <workItem from="1667010402876" duration="882000" />
+      <workItem from="1667523755400" duration="23859000" />
+      <workItem from="1667703746728" duration="4069000" />
+      <workItem from="1667711767475" duration="3189000" />
+      <workItem from="1667719338874" duration="8405000" />
+      <workItem from="1668044659117" duration="303000" />
+      <workItem from="1668344917359" duration="1582000" />
+      <workItem from="1668347053160" duration="1210000" />
+      <workItem from="1670917020570" duration="46000" />
+      <workItem from="1672814752211" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
